@@ -32,3 +32,13 @@ about me, about game development
 2013.05.24 [Father of Computer Gaming：Sid Meier](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5Mzk1OTQxMQ==&appmsgid=10000009&itemidx=1&sign=dd3459aec2958de1986e2d6f4db03f42#wechat_redirect)
 
 2013.05.08 [魔兽世界的主程序：John Cash](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5Mzk1OTQxMQ==&appmsgid=10000004&itemidx=1#wechat_redirect)
+
+***
+
+#链接
+
+[Gist: https://gist.github.com/helloqinglan](https://gist.github.com/helloqinglan)
+
+[My Blog: http://gameblog.yuzhubao.com](http://gameblog.yuzhubao.com)
+
+[CSDN Blog: http://blog.csdn.net/lfhfut](http://blog.csdn.net/lfhfut)
