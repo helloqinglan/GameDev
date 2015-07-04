@@ -19,7 +19,7 @@ about me, about game development
 
 2015.04.19 [手机游戏开发，迭代式还是规划式设计？](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=204655753&idx=1&sn=cc844a69dace69c95e50878917ca89f2#rd)
 
-2014.05.28 [生存游戏的结局[(http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=200218251&idx=1&sn=251c212a59fa3e2985e1b0f412f16282#rd)
+2014.05.28 [生存游戏的结局](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=200218251&idx=1&sn=251c212a59fa3e2985e1b0f412f16282#rd)
 
 2014.05.22 [Epic的游戏开发新方法：与Fans和UE Developers共同开发](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=200188339&idx=1&sn=615a58655d038247a7b29e773cd1f62e#rd)
 
