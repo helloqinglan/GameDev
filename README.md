@@ -92,7 +92,7 @@ about me, about game development
 
 2011.11.24 [UNITY中的事件系统演进](http://gameblog.yuzhubao.com/?p=221)
 
-2011.11.21 [[UNITY]在C#中调用JAVASCRIPT脚本的方法(http://gameblog.yuzhubao.com/?p=215)
+2011.11.21 [在C#中调用JAVASCRIPT脚本的方法](http://gameblog.yuzhubao.com/?p=215)
 
 2011.10.01 [UNITY 3D PHYSICS – RIGIDBODY 刚体](http://gameblog.yuzhubao.com/?p=203)
 
