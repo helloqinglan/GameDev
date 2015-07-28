@@ -116,6 +116,46 @@ about me, about game development
 
 2011.04.27 [LIFEGUARD FREE FINISHED](http://gameblog.yuzhubao.com/?p=1)
 
+2010.08.08 [SmartFoxServer项目完成总结](http://blog.csdn.net/lfhfut/article/details/5796746)
+
+2010.07.21 [Android的无边界程序设计理念](http://blog.csdn.net/lfhfut/article/details/5751348)
+
+2010.06.29 [移动互联网的明天](http://blog.csdn.net/lfhfut/article/details/5702938)
+
+2010.04.21 [DOOM启世录的启示](http://blog.csdn.net/lfhfut/article/details/5513692)
+
+2010.04.19 [如何处理好合伙之之间的关系](http://blog.csdn.net/lfhfut/article/details/5500611)
+
+2010.04.14 [有关游戏开发的几点体会](http://blog.csdn.net/lfhfut/article/details/5483266)
+
+2010.04.08 [游戏小创业团队最终的结局](http://blog.csdn.net/lfhfut/article/details/5460353)
+
+2010.04.05 [做成一款游戏有多难](http://blog.csdn.net/lfhfut/article/details/5450859)
+
+2010.04.04 [游戏到底有多赚钱](http://blog.csdn.net/lfhfut/article/details/5448841)
+
+2009.11.26 [Ogre终于开始改进其对地形渲染的支持](http://blog.csdn.net/lfhfut/article/details/4879010)
+
+2009.10.13 [用cl.exe生成对象内存布局来学习虚函数](http://blog.csdn.net/lfhfut/article/details/4666142)
+
+2009.09.28 [FXComposer中的Annotations与Semantics](http://blog.csdn.net/lfhfut/article/details/4602866)
+
+2009.09.14 [游戏程序里的主循环 Main Loop](http://blog.csdn.net/lfhfut/article/details/4552548)
+
+2009.08.09 [War3ArtTools学习笔记](http://blog.csdn.net/lfhfut/article/details/4427026)
+
+2009.08.07 [魔兽mdx文件导出为Ogre Mesh的小进展](http://blog.csdn.net/lfhfut/article/details/4423989)
+
+2009.07.25 [Unity3D初探](http://blog.csdn.net/lfhfut/article/details/4379232)
+
+2009.03.16 [boost shared_ptr的小技巧](http://blog.csdn.net/lfhfut/article/details/3996212)
+
+2009.02.07 [持续集成与每日构建](http://blog.csdn.net/lfhfut/article/details/3867232)
+
+2008.11.01 [基于ACE的定时器队列实现](http://blog.csdn.net/lfhfut/article/details/3196988)
+
+2008.07.30 [服务器又宕机了，怎么办？](http://blog.csdn.net/lfhfut/article/details/2738109)
+
 ***
 
 #链接
