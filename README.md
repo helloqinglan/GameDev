@@ -156,6 +156,44 @@ about me, about game development
 
 2008.07.30 [服务器又宕机了，怎么办？](http://blog.csdn.net/lfhfut/article/details/2738109)
 
+2008.07.19 [应用抽象的开发感想](http://blog.csdn.net/lfhfut/article/details/2677047)
+
+2008.05.05 [MMO中随机生成地下城的一点随想](http://blog.csdn.net/lfhfut/article/details/2387842)
+
+2008.03.22 [数据广播方案的优化](http://blog.csdn.net/lfhfut/article/details/2207102)
+
+2008.03.20 [网络游戏的位置同步](http://blog.csdn.net/lfhfut/article/details/2198600)
+
+2008.03.02 [带宽限制下的视觉实体属性传播](http://blog.csdn.net/lfhfut/article/details/2138512)
+
+2007.12.07 [游戏对象的实现 (上)](http://blog.csdn.net/lfhfut/article/details/1923773) [游戏对象的实现 (下)](http://blog.csdn.net/lfhfut/article/details/1925749) [游戏对象的实现 (补)](http://blog.csdn.net/lfhfut/article/details/1928292)
+
+2007.11.20 [我的思维惯性](http://blog.csdn.net/lfhfut/article/details/1895560)
+
+2007.10.15 [有关RO2模拟器与开私服的一点联想](http://blog.csdn.net/lfhfut/article/details/1824871)
+
+2007.09.30 [再谈登录服的实现](http://blog.csdn.net/lfhfut/article/details/1807259)
+
+2007.09.12 [*YOU* are full of bullshit](http://blog.csdn.net/lfhfut/article/details/1781608)
+
+2007.09.09 [服务器结构探讨 - 1](http://blog.csdn.net/lfhfut/article/details/1778459) [服务器结构探讨 - 2](http://blog.csdn.net/lfhfut/article/details/1778471) [服务器结构探讨 - 3](http://blog.csdn.net/lfhfut/article/details/1778535) [服务器结构探讨 - 4](http://blog.csdn.net/lfhfut/article/details/1779848) [服务器结构探讨 - 5](http://blog.csdn.net/lfhfut/article/details/1781418) [服务器结构探讨 - 6](http://blog.csdn.net/lfhfut/article/details/1782949) [服务器结构探讨 - 7](http://blog.csdn.net/lfhfut/article/details/1783086) [服务器结构探讨 - 8](http://blog.csdn.net/lfhfut/article/details/1786007) [服务器结构探讨 - 9](http://blog.csdn.net/lfhfut/article/details/1788916) [服务器结构探讨 - 10](http://blog.csdn.net/lfhfut/article/details/1790658) [服务器结构探讨 - 11](http://blog.csdn.net/lfhfut/article/details/1793743) [服务器结构探讨 - 12](http://blog.csdn.net/lfhfut/article/details/1793797) [服务器结构探讨 - 13](http://blog.csdn.net/lfhfut/article/details/1797607) [服务器结构探讨 - 14](http://blog.csdn.net/lfhfut/article/details/1799092) [服务器结构探讨 - 15](http://blog.csdn.net/lfhfut/article/details/1804242)
+
+2006.12.18 [m2和wmo模型导入插件更新](http://blog.csdn.net/lfhfut/article/details/1448238)
+
+2006.11.19 [M2及WMO导入插件 (Max8)](http://blog.csdn.net/lfhfut/article/details/1396187)
+
+2006.10.12 [WoW的WDB数据](http://blog.csdn.net/lfhfut/article/details/1332385)
+
+2006.08.29 [数据接收中粘包及半包的处理](http://blog.csdn.net/lfhfut/article/details/1139848)
+
+2006.08.27 [网络IO与逻辑处理的分离](http://blog.csdn.net/lfhfut/article/details/1128759)
+
+2006.08.26 [WOW用户认证的方式-SRP](http://blog.csdn.net/lfhfut/article/details/1124768)
+
+2006.07.19 [实现一个可限制最大连接数的Proactor服务器](http://blog.csdn.net/lfhfut/article/details/943532)
+
+2006.07.18 [创建一个可正常结束的Proactor服务器](http://blog.csdn.net/lfhfut/article/details/938474)
+
 ***
 
 #链接
