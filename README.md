@@ -46,6 +46,76 @@ about me, about game development
 
 2013.05.08 [魔兽世界的主程序：John Cash](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5Mzk1OTQxMQ==&appmsgid=10000004&itemidx=1#wechat_redirect)
 
+2012.12.01 [从MONKEY DRUM获得的IAP收费游戏开发经验](http://gameblog.yuzhubao.com/?p=387)
+
+2012.11.13 [A FEW UNITY3D TIPS FROM GAMEDEVBLOG](http://gameblog.yuzhubao.com/?p=384)
+
+2012.08.04 [理解COCOS2D里的ANCHORPOINT](http://gameblog.yuzhubao.com/?p=380)
+
+2012.07.22 [别让你的IAP轻易被破解](http://gameblog.yuzhubao.com/?p=378)
+
+2012.07.01 [UNITY 4.0的新GUI](http://gameblog.yuzhubao.com/?p=374)
+
+2012.04.07 [关于DRAW SOMETHING的一些分析](http://gameblog.yuzhubao.com/?p=367)
+
+2012.03.15 [THE NEW IPAD明天就上市，但是IOS SDK 5.1先别忙升级](http://gameblog.yuzhubao.com/?p=363)
+
+2012.03.02 [小小帝国之技术分析](http://gameblog.yuzhubao.com/?p=350)
+
+2012.02.26 [OBJECTIVE-C的日志宏、CRASH REPORT以及ARC](http://gameblog.yuzhubao.com/?p=348)
+
+2012.02.23 [GITHUT上最受关注的OBJECTIVE-C项目](http://gameblog.yuzhubao.com/?p=345)
+
+2012.02.15 [UNITY3.5的新特性 – FOR IOS](http://gameblog.yuzhubao.com/?p=341)
+
+2012.02.11 [选择MONOTOUCH而不是OBJECTIVEC的五大理由](http://gameblog.yuzhubao.com/?p=339)
+
+2012.02.09 [使用COROUTION实现老虎机效果](http://gameblog.yuzhubao.com/?p=309)
+
+2012.02.04 [UNITY3D集成IAP的那点事儿](http://gameblog.yuzhubao.com/?p=302)
+
+2012.01.12 [自动生成BUILD版本号的UNITY插件](http://gameblog.yuzhubao.com/?p=288)
+
+2012.01.11 [OBJECTIVE-C中的字符串比较](http://gameblog.yuzhubao.com/?p=278)
+
+2012.01.10 [使用粒子系统制作璀璨的星空背景](http://gameblog.yuzhubao.com/?p=266)
+
+2011.12.29 [为UNITY项目使用SCM](http://gameblog.yuzhubao.com/?p=259)
+
+2011.12.28 [IOS与ANDROID的活跃机器数量](http://gameblog.yuzhubao.com/?p=255)
+
+2011.12.24 [UNITY PHYSICS文档 — HINGE JOINT](http://gameblog.yuzhubao.com/?p=250)
+
+2011.12.15 [理解ITWEEN的回调函数](http://gameblog.yuzhubao.com/?p=244)
+
+2011.12.01 [OPTIMIZING GRAPHICS PERFORMANCE (IOS)](http://gameblog.yuzhubao.com/?p=239)
+
+2011.11.24 [UNITY中的事件系统演进](http://gameblog.yuzhubao.com/?p=221)
+
+2011.11.21 [[UNITY]在C#中调用JAVASCRIPT脚本的方法(http://gameblog.yuzhubao.com/?p=215)
+
+2011.10.01 [UNITY 3D PHYSICS – RIGIDBODY 刚体](http://gameblog.yuzhubao.com/?p=203)
+
+2011.10.01 [UNITY 3D PHYSICS COMPONENTS](http://gameblog.yuzhubao.com/?p=201)
+
+2011.08.30 [使用AES加密游戏资源文件](http://gameblog.yuzhubao.com/?p=185)
+
+2011.08.27 [从SPY MOUSE看APP STORE的推广方法](http://gameblog.yuzhubao.com/?p=182)
+
+2011.08.26 [如何用GDB找到ANDROID SO文件中的加密KEY](http://gameblog.yuzhubao.com/?p=178)
+
+2011.06.23 [跨平台的移动开发框架介绍](http://gameblog.yuzhubao.com/?p=155)
+
+2011.06.07 [使用TILED制作2D游戏关卡](http://gameblog.yuzhubao.com/?p=142)
+
+2011.05.24 [COCOSBUILDER 值得关注的一个新项目](http://gameblog.yuzhubao.com/?p=134)
+
+2011.05.19 [CORONA 5分钟入门教程](http://gameblog.yuzhubao.com/?p=120)
+
+2011.05.03 [为下一代消费者做游戏](http://gameblog.yuzhubao.com/?p=52)
+
+2011.04.27 [LIFEGUARD FREE FINISHED](http://gameblog.yuzhubao.com/?p=1)
+
 ***
 
 #链接
