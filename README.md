@@ -7,11 +7,11 @@ about me, about game development
 ***
 
 #代码
-### WMO Importer #
+### WMO Importer ###
 3ds max wow wmo file importer
 可以将魔兽世界的WMO室内场景导入到3ds max
 
-### M2 Importer #
+### M2 Importer ###
 3ds max wow m2 file importer
 可以将魔兽世界的M2模型文件导入到3ds max
 
