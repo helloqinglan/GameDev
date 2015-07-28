@@ -7,14 +7,15 @@ about me, about game development
 ***
 
 #代码
-## WMO Importer #
+### WMO Importer #
 3ds max wow wmo file importer
 可以将魔兽世界的WMO室内场景导入到3ds max
 
-## M2 Importer #
+### M2 Importer #
 3ds max wow m2 file importer
 可以将魔兽世界的M2模型文件导入到3ds max
 
+***
 
 #文章列表
 2015.07.28 [Steam上流行的游戏类型](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=207619869&idx=1&sn=e8e811e0d06bccbcf1e0ec784e0b2603#rd)
