@@ -1,17 +1,17 @@
 # GameDev
 about me, about game development
 
-#微信公众号：游戏程序员 youxichengxuyuan
+####微信公众号：游戏程序员 youxichengxuyuan
 ![微信公众号：游戏程序员 youxichengxuyuan](http://gameblog.yuzhubao.com/wp-content/uploads/2015/06/qrcode.jpg)
 
 ***
 
 #代码
-### WMO Importer [仓库地址](https://github.com/helloqinglan/qinglan/tree/master/WMOImp)###
+#### WMO Importer [仓库地址](https://github.com/helloqinglan/qinglan/tree/master/WMOImp)
 3ds max wow wmo file importer
 可以将魔兽世界的WMO室内场景导入到3ds max
 
-### M2 Importer [仓库地址](https://github.com/helloqinglan/qinglan/tree/master/M2Imp)###
+#### M2 Importer [仓库地址](https://github.com/helloqinglan/qinglan/tree/master/M2Imp)
 3ds max wow m2 file importer
 可以将魔兽世界的M2模型文件导入到3ds max
 
