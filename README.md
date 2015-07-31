@@ -18,6 +18,8 @@ about me, about game development
 ***
 
 #文章列表
+2015.07.29 [服务器又宕机了，怎么办？](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=207622329&idx=1&sn=687cdd4bb7d863b08694f934332ea691#rd)
+
 2015.07.28 [Steam上流行的游戏类型](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=207619869&idx=1&sn=e8e811e0d06bccbcf1e0ec784e0b2603#rd)
 
 2015.07.03 [Roguelike游戏的启示](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=207229762&idx=1&sn=93ba8396e6a9e6b08812d2ccef8450f6#rd)
