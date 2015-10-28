@@ -18,6 +18,8 @@ about me, about game development
 ***
 
 #文章列表
+2015.10.28 [Horizon Chase中的Polygonal Style美术风格](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=400154198&idx=1&sn=323763a464bede0d405a918d4e4c2d87)
+
 2015.09.20 [游戏推荐：Craft The World](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=208340790&idx=1&sn=c3d0418818bb9a7451b913c798bb05e7#rd)
 
 2015.07.29 [服务器又宕机了，怎么办？](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=207622329&idx=1&sn=687cdd4bb7d863b08694f934332ea691#rd)
