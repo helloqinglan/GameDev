@@ -18,6 +18,8 @@ about me, about game development
 ***
 
 #文章列表
+2016.02.27 [从虚荣与Clash Royale看未来移动平台上的硬核游戏](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=402618403&idx=1&sn=7205bc40e6186e3891ecd8ae945af45d#rd)
+
 2015.10.28 [Horizon Chase中的Polygonal Style美术风格](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=400154198&idx=1&sn=323763a464bede0d405a918d4e4c2d87)
 
 2015.09.20 [游戏推荐：Craft The World](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=208340790&idx=1&sn=c3d0418818bb9a7451b913c798bb05e7#rd)
