@@ -18,6 +18,19 @@ about me, about game development
 ***
 
 #文章列表
+
+2019.08.15 [程序员都应该了解的Salesforce](https://github.com/helloqinglan/GameDev/blob/master/engineer/what-is-salesforce.md)
+
+2019.04.26 [如何实现审计日志 (Autit Log)](https://github.com/helloqinglan/GameDev/blob/master/microservice/how-to-implement-audit-log.md)
+
+2019.04.24 [Pintrest如何构建A/B测试平台](https://github.com/helloqinglan/GameDev/blob/master/production/how-pintrest-build-ab-testing-framework.md)
+
+2019.04.19 [Google SRE读后](https://github.com/helloqinglan/GameDev/blob/master/bookreview/google-sre.md)
+
+2019.03.13 [什么时Feature Flag](https://github.com/helloqinglan/GameDev/blob/master/microservice/what-is-feature-flag.md)
+
+2019.01.14 [Service Mesh的data plane与control plane](https://github.com/helloqinglan/GameDev/blob/master/servicemesh/service-mesh-data-plane-vs-control-plane.md)
+
 2016.02.27 [从虚荣与Clash Royale看未来移动平台上的硬核游戏](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=402618403&idx=1&sn=7205bc40e6186e3891ecd8ae945af45d#rd)
 
 2015.10.28 [Horizon Chase中的Polygonal Style美术风格](http://mp.weixin.qq.com/s?__biz=MjM5Mzk1OTQxMQ==&mid=400154198&idx=1&sn=323763a464bede0d405a918d4e4c2d87)
@@ -184,7 +197,7 @@ about me, about game development
 
 2007.09.12 [*YOU* are full of bullshit](http://blog.csdn.net/lfhfut/article/details/1781608)
 
-2007.09.09 [服务器结构探讨 - 1](http://blog.csdn.net/lfhfut/article/details/1778459) [服务器结构探讨 - 2](http://blog.csdn.net/lfhfut/article/details/1778471) [服务器结构探讨 - 3](http://blog.csdn.net/lfhfut/article/details/1778535) [服务器结构探讨 - 4](http://blog.csdn.net/lfhfut/article/details/1779848) [服务器结构探讨 - 5](http://blog.csdn.net/lfhfut/article/details/1781418) [服务器结构探讨 - 6](http://blog.csdn.net/lfhfut/article/details/1782949) [服务器结构探讨 - 7](http://blog.csdn.net/lfhfut/article/details/1783086) [服务器结构探讨 - 8](http://blog.csdn.net/lfhfut/article/details/1786007) [服务器结构探讨 - 9](http://blog.csdn.net/lfhfut/article/details/1788916) [服务器结构探讨 - 10](http://blog.csdn.net/lfhfut/article/details/1790658) [服务器结构探讨 - 11](http://blog.csdn.net/lfhfut/article/details/1793743) [服务器结构探讨 - 12](http://blog.csdn.net/lfhfut/article/details/1793797) [服务器结构探讨 - 13](http://blog.csdn.net/lfhfut/article/details/1797607) [服务器结构探讨 - 14](http://blog.csdn.net/lfhfut/article/details/1799092) [服务器结构探讨 - 15](http://blog.csdn.net/lfhfut/article/details/1804242)
+2007.09.09 [服务器结构探讨 - 1](http://blog.csdn.net/lfhfut/article/details/1778459) [2](http://blog.csdn.net/lfhfut/article/details/1778471) [3](http://blog.csdn.net/lfhfut/article/details/1778535) [4](http://blog.csdn.net/lfhfut/article/details/1779848) [5](http://blog.csdn.net/lfhfut/article/details/1781418) [6](http://blog.csdn.net/lfhfut/article/details/1782949) [7](http://blog.csdn.net/lfhfut/article/details/1783086) [8](http://blog.csdn.net/lfhfut/article/details/1786007) [9](http://blog.csdn.net/lfhfut/article/details/1788916) [10](http://blog.csdn.net/lfhfut/article/details/1790658) [11](http://blog.csdn.net/lfhfut/article/details/1793743) [12](http://blog.csdn.net/lfhfut/article/details/1793797) [13](http://blog.csdn.net/lfhfut/article/details/1797607) [14](http://blog.csdn.net/lfhfut/article/details/1799092) [15](http://blog.csdn.net/lfhfut/article/details/1804242)
 
 2006.12.18 [m2和wmo模型导入插件更新](http://blog.csdn.net/lfhfut/article/details/1448238)
 
