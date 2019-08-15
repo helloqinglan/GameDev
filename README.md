@@ -4,8 +4,6 @@ about me, about game development
 #### 微信公众号：游戏程序员 youxichengxuyuan
 ![微信公众号：游戏程序员 youxichengxuyuan](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5Mzk1OTQxMQ==&mid=2650102064&idx=1&sn=9785308ef8e37c275327b2a22de37b98&send_time=)
 
-***
-
 ## 代码
 #### WMO Importer [仓库地址](https://github.com/helloqinglan/qinglan/tree/master/WMOImp)
 3ds max wow wmo file importer
@@ -14,8 +12,6 @@ about me, about game development
 #### M2 Importer [仓库地址](https://github.com/helloqinglan/qinglan/tree/master/M2Imp)
 3ds max wow m2 file importer
 可以将魔兽世界的M2模型文件导入到3ds max
-
-***
 
 ## 文章列表
 
@@ -217,7 +213,7 @@ about me, about game development
 
 ***
 
-#链接
+## 链接
 
 [Gist: https://gist.github.com/helloqinglan](https://gist.github.com/helloqinglan)
 
