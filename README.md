@@ -1,8 +1,8 @@
 # GameDev
 about me, about game development
 
-####微信公众号：游戏程序员 youxichengxuyuan
-![微信公众号：游戏程序员 youxichengxuyuan](http://gameblog.yuzhubao.com/wp-content/uploads/2015/06/qrcode.jpg)
+#### 微信公众号：游戏程序员 youxichengxuyuan
+![微信公众号：游戏程序员 youxichengxuyuan](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5Mzk1OTQxMQ==&mid=2650102064&idx=1&sn=9785308ef8e37c275327b2a22de37b98&send_time=)
 
 ***
 
