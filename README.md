@@ -15,15 +15,17 @@ about me, about game development
 
 ## 文章列表
 
+2019.08.21 [技术升级与Unix哲学](https://github.com/helloqinglan/GameDev/blob/master/engineer/technique-review.md)
+
 2019.08.15 [程序员都应该了解的Salesforce](https://github.com/helloqinglan/GameDev/blob/master/engineer/what-is-salesforce.md)
 
-2019.04.26 [如何实现审计日志 (Autit Log)](https://github.com/helloqinglan/GameDev/blob/master/microservice/how-to-implement-audit-log.md)
+2019.04.26 [如何实现审计日志 (Audit Log)](https://github.com/helloqinglan/GameDev/blob/master/microservice/how-to-implement-audit-log.md)
 
 2019.04.24 [Pintrest如何构建A/B测试平台](https://github.com/helloqinglan/GameDev/blob/master/production/how-pintrest-build-ab-testing-framework.md)
 
 2019.04.19 [Google SRE读后](https://github.com/helloqinglan/GameDev/blob/master/bookreview/google-sre.md)
 
-2019.03.13 [什么时Feature Flag](https://github.com/helloqinglan/GameDev/blob/master/microservice/what-is-feature-flag.md)
+2019.03.13 [什么是Feature Flag](https://github.com/helloqinglan/GameDev/blob/master/microservice/what-is-feature-flag.md)
 
 2019.01.14 [Service Mesh的data plane与control plane](https://github.com/helloqinglan/GameDev/blob/master/servicemesh/service-mesh-data-plane-vs-control-plane.md)
 
