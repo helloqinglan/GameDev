@@ -15,6 +15,10 @@ about me, about game development
 
 ## 文章列表
 
+2021.10.10 [元宇宙与云原生游戏](https://mp.weixin.qq.com/s/oZhL-5NEfRbiVhxOIVJvGg)
+
+2019.12.28 [云游戏会是游戏业的未来吗](https://mp.weixin.qq.com/s/ai6kGljSl4IweppcVHAguQ)
+
 2019.08.21 [技术升级与Unix哲学](https://github.com/helloqinglan/GameDev/blob/master/engineer/technique-review.md)
 
 2019.08.15 [程序员都应该了解的Salesforce](https://github.com/helloqinglan/GameDev/blob/master/engineer/what-is-salesforce.md)
